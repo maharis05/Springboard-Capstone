@@ -1,0 +1,46 @@
+---
+title: "Capstone_GW28Jun17"
+output: html_document
+---
+
+### Twitter Sentiment Analysis For The U.S Airlines
+
+##  Focus
+
+Sentiment Analysis is the process of understanding whether a product, industry or entertainer is 
+trending positive, negative or neutral.  It can be used by an organization to gadge a customers 
+attitude toward its product by gathering data, in this case twitter, to dtermine what works or does not work.
+
+##  Clients
+
+#   Airline Industry
+
+The airline industry has suddently realized that Social Media is an important aspect of doing business
+in the 21st century.  Twitter, in particular, is a must have tool for improving customer satisfaction, which could lead to more business.
+
+##  Data Source
+
+I will be using the data from the Kaggle.com website:  [link](https://www.kaggle.com/crowdflower/twitter-airline-sentiment)
+
+##  Solution
+
+Download the dataset into Rstudio as a csv file and classify the positive, negative and neutral tweets; followed by catagorizing negative reasons such as bad flights, late flights or customer service issues-This could be down with creating dummy variables for later analysis, such as Predictive Modeling.
+
+I'll then look at the negative sentiments and see how they vary across airlines by using Multivariant Visualization Techniques, e.g 100% stacked, Fill or Dodge adjustments.
+
+Also, I'll plot how sentiments vary across different airlines.
+
+Utilize Exploratory Data Analysis to find patterns or differences in the six different airlines.
+
+##  Deliverables
+
+Source Code
+
+Report detailing the steps taken to find a solution
+
+
+
+
+
+
+
